@@ -4,8 +4,15 @@ Im a 13 yr old who loves programming 💻
 
 I use dart, c#, and java
 
+I love developing algorithms and solving tricky coding problems! 
+
 I make mobile apps and games for android and ios! 📱
 
-Creations:
-  - iCure (a mobile app that helps people find plasma donors for Covid-19!)
+# Check out my latest app called "iCure"
+  - Its a mobile app that helps people find plasma donors for Covid-19 nearby with a tap!
+  - It's avaiable on google play and app store
+  
+Some Other Creations:
+  - Appkins (my very own app studio) https://www.appkins.com/
   - Squishy Run (a fun, creative, and unique undless runner game) https://rikus-enterprises.itch.io/squishy-run
+  - Soar High (an arcade gravity simuator made with scratch *UNFINISHED*) https://scratch.mit.edu/projects/374366040/
