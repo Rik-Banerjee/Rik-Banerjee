@@ -9,8 +9,8 @@ I love developing algorithms and solving tricky coding problems!
 I make mobile apps and games for android and ios! 📱
 
 # Check out my latest app called "iCure"
-  - Its a mobile app that helps people find plasma donors for Covid-19 nearby with a tap!
-  - It's avaiable on google play and app store
+  # - Its a mobile app that helps people find plasma donors for Covid-19 nearby with a tap!
+  # - It's avaiable on google play and app store
   
 Some Other Creations:
   - Appkins (my very own app studio) https://www.appkins.com/
