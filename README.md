@@ -1,2 +1,8 @@
-# Hi
-about me
+# Hey ✌️
+
+Im a 13 yr old who loves programming 💻
+I use dart, c#, and java
+I make mobile apps and games for android and ios! 📱
+Creations:
+  - iCure (a mobile app that helps people find plasma donors for Covid-19!)
+  - Squishy Run (a fun, creative, and unique undless runner game) https://rikus-enterprises.itch.io/squishy-run
