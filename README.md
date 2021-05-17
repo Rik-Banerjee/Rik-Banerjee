@@ -4,7 +4,7 @@ I like to code 💻
 
 I mostly use dart and c#
 
-I like devloping algorithms, games, and mobile apps
+I like developing algorithms, games, and mobile apps
 
 Owner and CEO of Appkins, a software company specialized in mobile apps
 
