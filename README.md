@@ -1,8 +1,6 @@
 # Hello
 
-I like to build apps
-
-I like to develop algorithms
+I like to program
 
 Visit my startup at https://www.appkins.com/
 
